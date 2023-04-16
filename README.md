@@ -1,4 +1,4 @@
-Try it here -> https://secondjavascriptproject.pages.dev/
+Try it here -> https://secondjsproject.pages.dev/
 
 To do list (ENG)
 
