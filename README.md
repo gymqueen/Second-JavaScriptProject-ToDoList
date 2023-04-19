@@ -18,7 +18,9 @@ To do list (ENG)
 - CSS
 - JavaScript
 
-- 할 일 리스트 (KOR)
+
+
+할 일 리스트 (KOR)
 
 1. 기능
 
